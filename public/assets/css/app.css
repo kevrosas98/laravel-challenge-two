@@ -1,0 +1,14 @@
+body {
+    min-height: 100vh;
+}
+.sticky {
+    position: sticky;
+    top: 100%;
+}
+.psticky{
+    align-items: center;
+}
+
+.btn-primary{
+    border-radius: 0;
+}
